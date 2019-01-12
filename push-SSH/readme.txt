@@ -1,0 +1,1 @@
+the way of use SSH:git clone git@github.com:DMWillie/push-SSH.git
